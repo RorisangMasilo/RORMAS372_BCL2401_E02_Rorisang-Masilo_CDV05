@@ -78,3 +78,11 @@ footer {
 .navbar .menu li a:hover {
   color: #c0d5f0;
 }
+
+/*  Menu Btn  */
+.menu-btn {
+  color: #fff;
+  font-size: 23px;
+  cursor: pointer;
+  display: none;
+}
