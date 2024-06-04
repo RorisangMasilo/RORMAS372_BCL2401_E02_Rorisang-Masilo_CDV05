@@ -59,7 +59,7 @@ footer {
 }
 
 .navbar .logo {
-  width: 50px;
+  width: 40px;
 }
 
 .navbar .menu {
@@ -195,6 +195,10 @@ footer {
 }
 
 /*  About  */
+.profile-image {
+  width: fit-content(50%);
+}
+
 .about {
   background: radial-gradient(#e1efff, white);
 }
@@ -270,7 +274,7 @@ footer {
 
 /*  Projects  */
 .projects .title::after {
-  content: "What I did ?";
+  content: "—What I did ?—";
 }
 
 .projects .carousel .card {
